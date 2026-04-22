@@ -1,4 +1,4 @@
-# Lab: Reflected XSS into HTML context with nothing encoded
+# Lab: Reflected XSS into HTML context with nothing encoded.
 
 ## Vulnerability
 This lab demonstrates a Reflected Cross-Site Scripting (XSS) vulnerability where user input is reflected in the response without proper output encoding.
